@@ -6,6 +6,4 @@ Navigate the differente exercises with the different branchs.
 
 ## Presentation Slides
 
-[Modern JS](https://slides.com/rubenmateus/modern-js/fullscreen)
-
-[React-beginner](https://slides.com/rubenmateus/react-beginner/fullscreen)
+[React-beginner](https://slides.com/rubenmateus/react-for-beginners/fullscreen)
